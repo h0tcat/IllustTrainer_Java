@@ -1,0 +1,4 @@
+# IllustTrainer_Java
+IllustTrainer_Java
+
+イラストの書き方を学ぶアプリをJavaに移植する
